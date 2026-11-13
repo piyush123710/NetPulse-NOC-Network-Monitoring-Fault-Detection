@@ -1,0 +1,6 @@
+{
+  "name": "NetPulse NOC — Network Monitoring & Fault Detection",
+  "description": "Real-time network monitoring, TCP/IP ping and response-time tracking, automated fault alerting, incident logging, and IP troubleshooting console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
